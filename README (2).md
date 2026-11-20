@@ -145,9 +145,3 @@ This repository contains the complete individual submission for **BIT2118 Scient
 
 ---
 
-## Author Verification
-
-* **Student:** [Friend's Full Name]
-* **Admission No:** [Friend's Admission Number]
-* **Course:** BIT2118 Scientific Computing
-* **Submitted via:** Mount Kenya University VLMS Portal
